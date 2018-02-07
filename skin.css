@@ -58,7 +58,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, p, .ti
     }
 
         .shop-menu .cart-buttons a:hover, .mi-menu ul li > a:hover, .mi-menu ul li.active > a, .mi-menu ul li > a:hover i, .mi-menu ul li.active > a i, .pricing-table .pricing-price, .list-group-item.pricing-price:hover, .nav-tabs > li:hover > a, .nav-tabs > li:hover > a i, .nav-tabs > li.active > a, .nav-tabs > li.active > a i, .list-group-item:not(.active):hover > a:not(.btn), header .btn-search:hover, .nav.ms-minimal > li.active > a, .icon-background.boxed-inverse:not(.bg-color) .i-background, .icon-box-cell > i, .advs-box.boxed a.btn, .advs-box.boxed a i, .dropdown.btn-group .active > a, .bootgrid-header .dropdown-item:hover, .white .box-side-icon-small .icon-box i, .btn-text:hover, .advs-box-top-icon.boxed-inverse .icon, .advs-box-top-icon.boxed .btn, .footer-minimal .footer-title, .advs-box-top-icon.boxed .circle-button, .white .text-color, .text-color, .boxed .circle-button:hover i, .btn-text i, .boxed .circle-button, .pagination > .active > a, .pagination > li > a:hover, .datepicker-panel > ul > li:hover, .adv-img-button-content .caption i, .social-line .social-group i.circle:hover, .white .icon-box-cell > i.square, .white .icon-box-cell > i.circle, .navbar-default .navbar-nav > li:hover > a, .navbar-default .navbar-nav > li.active > a, .white .pagination > li > a:hover, .white .pagination > .active > a, .white.advs-box-blog .tag-row span:after, .white.niche-box-post .tag-row span:after {
-            color: #484848 !important;
+            color: #e3ab3b !important;
         }
 
 .btn-border:after, .nav-tabs > li > a:before, .advs-box-top-icon-img.boxed:not(.niche-box-post):after, .advs-box-blog.boxed:after, .timeline > li > .timeline-badge, .social-group i.circle, .social-button i.circle, .bg-color, .home-fullpage p, .home-fullpage a:hover, .timeline > li:hover > .timeline-badge, ul.side-menu li.active:before, #twosides-menu, .subline-bar, .accordion-list .list-group-item:before, .advs-box-multiple div.circle, .box-social-page, .btn, .circle-button .navbar-inner .nav:not(.ms-rounded) li a:before, .timeline > li:hover > .timeline-badge {
@@ -133,7 +133,7 @@ div.adv-img-side-content .btn:hover, .nav-pills > li.active > a, .list-items .li
 }
 
 .btn:hover, body div .btn.white:hover, .nav.ms-minimal > li.active > a, .nav.ms-minimal > li:hover > a {
-    border-color: #2e2e2e !important;
+    border-color: #e3ab3b !important;
 }
 
 
@@ -718,7 +718,7 @@ body .block-quote.quote-1:before, body .block-quote.quote-2:after, body .block-q
 }
 
 .footer-parallax {
-    height: 380px;
+    height: 400px;
     border-top: none;
 }
 
@@ -3139,7 +3139,7 @@ MOBILE - RESPONSIVE
     }
 
     .navbar-brand img {
-        max-height: 30px;
+        max-height: 50px;
     }
 
     header .nav > li > a, header.scroll-css .nav > li > a {

@@ -597,7 +597,7 @@ header.hamburger-header {
 
 .navbar-brand img {
     transition: all .3s;
-    max-height: 100%;
+    max-height: 135%;
 }
 
 .navbar.navbar-inner {
@@ -3383,9 +3383,10 @@ LISTS
 
     .list-items .list-item p {
         line-height: 25px;
-        color: #dddddd;
+        color: #585858;
         font-size: 13px;
         margin: 0;
+        text-transform: capitalize;
     }
 
     .list-items .list-item span {
@@ -3639,10 +3640,10 @@ i.cover, i.onlycover {
 }
 
 .text-xl.circle, .text-xl.square {
-    width: 92px;
-    height: 92px;
+    width: 135px;
+    height: 135px;
     padding: 0;
-    line-height: 92px;
+    line-height: 135px;
     font-size: 35px !important;
 }
 
