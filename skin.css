@@ -1178,7 +1178,7 @@ div .countdown > div:last-child:after {
 }
 
 .list-items .list-item {
-    border-bottom-style: solid;
+    /* border-bottom-style: solid; */
     background: none;
 }
 

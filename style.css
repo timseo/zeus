@@ -3358,8 +3358,8 @@ LISTS
 */
 .list-items .list-item {
     padding: 10px 0;
-    border-bottom: 1px dashed #E6E6E6;
-    transition: padding .3s;
+    /* border-bottom: 1px dashed #E6E6E6; */
+    /* transition: padding .3s; */
 }
 
     .list-items .list-item:hover {
