@@ -5,10 +5,20 @@ SKIN: GOURMET
 */
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i|Montserrat:300,400,500,600');
-@font-face {
+/* @font-face {
     font-family: 'dalek';
     src: url('css/fonts/dalek.ttf') format('ttf');
     font-style: normal;
+} */
+
+@font-face {
+    font-family: 'dalekregular';
+    src: url('css/fonts/dalek___-webfont.woff2') format('woff2'),
+         url('css/fonts/DALEK___.TTF') format('ttf'),
+         url('css/fonts/dalek___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 /*
 * ===================
@@ -43,7 +53,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, p, .ti
 }
 
 .comment-list .name, input, .list-blog a, .adv-img p, .subline-bar, .navbar-inner, .progress-circle, .btn-group, .popup-banner, .progress-circle p, .icon-box-cell p, .adv-img-half-content p, .icon-list, .pricing-table .list-group-item, .accordion-list .list-group-item > a, .countdown, .tagbox span, .album-title, .advs-box-multiple div.circle, .shop-menu-cnt .cart-total, .shop-menu-cnt, .shop-menu-cnt > i span, .tagbox a, .tagcloud a, .porfolio-bar, .pagination a, .social-feed-tw, .social-feed-fb, .timeline > li > .timeline-label p, .adv-img-half-content .big-text, .mi-menu ul li > a, .btn-text, .adv-big h2, .form-box, .datepicker-container, .form-box p, .advs-box-side-img h2 a, .step-number, .font-2, .niche-box-post h2, .home-slider li p, .box-menu-inner .icon-box-cell p, .pricing-table h3, .adv-img-down-text .caption-bottom p, .tweets_txt span, .comment-list .name span, .tag-row a, .tag-row.icon-row span, .niche-box-team h4, .quote-author, .niche-box-testimonails > h5 span, .navbar-nav, .nav, h1, .h1, h2, .h2, h3, .h3, h4, h5, h6, .btn, .table, .extra-content, .counter, .icon-box-cell label, .progress-label, .progress {
-    font-family: 'dalek', sans-serif;
+    font-family: 'dalekregular', sans-serif;
     line-height: 25px;
 }
 
