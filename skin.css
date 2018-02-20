@@ -11,6 +11,9 @@ SKIN: GOURMET
     font-style: normal;
 } */
 
+/* font-family: 'Barlow Condensed', sans-serif; */
+
+
 @font-face {
     font-family: 'dalekregular';
     src: url('css/fonts/dalek___-webfont.woff2') format('woff2'),
@@ -45,14 +48,14 @@ SKIN: GOURMET
 /* ======== chameleon custom end =========== */
 
 body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, p, .title-base p, .subheader-bootstrap .sub {
-    font-family: 'Libre Baskerville', serif;
-    font-size: 14px;
-    line-height: 25px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 23px;
+    line-height: 29px;
     font-weight: 300;
     color: #737373;
 }
 
-.comment-list .name, input, .list-blog a, .adv-img p, .subline-bar, .navbar-inner, .progress-circle, .btn-group, .popup-banner, .progress-circle p, .icon-box-cell p, .adv-img-half-content p, .icon-list, .pricing-table .list-group-item, .accordion-list .list-group-item > a, .countdown, .tagbox span, .album-title, .advs-box-multiple div.circle, .shop-menu-cnt .cart-total, .shop-menu-cnt, .shop-menu-cnt > i span, .tagbox a, .tagcloud a, .porfolio-bar, .pagination a, .social-feed-tw, .social-feed-fb, .timeline > li > .timeline-label p, .adv-img-half-content .big-text, .mi-menu ul li > a, .btn-text, .adv-big h2, .form-box, .datepicker-container, .form-box p, .advs-box-side-img h2 a, .step-number, .font-2, .niche-box-post h2, .home-slider li p, .box-menu-inner .icon-box-cell p, .pricing-table h3, .adv-img-down-text .caption-bottom p, .tweets_txt span, .comment-list .name span, .tag-row a, .tag-row.icon-row span, .niche-box-team h4, .quote-author, .niche-box-testimonails > h5 span, .navbar-nav, .nav, h1, .h1, h2, .h2, h3, .h3, h4, h5, h6, .btn, .table, .extra-content, .counter, .icon-box-cell label, .progress-label, .progress {
+.comment-list .name, input, .list-blog a, .adv-img p, .subline-bar, .navbar-inner, .progress-circle, .btn-group, .popup-banner, .progress-circle p, .icon-box-cell p, .adv-img-half-content p, .icon-list, .pricing-table .list-group-item, .accordion-list .list-group-item > a, .countdown, .tagbox span, .album-title, .advs-box-multiple div.circle, .shop-menu-cnt .cart-total, .shop-menu-cnt, .shop-menu-cnt > i span, .tagbox a, .tagcloud a, .porfolio-bar, .pagination a, .social-feed-tw, .social-feed-fb, .timeline > li > .timeline-label p, .adv-img-half-content .big-text, .mi-menu ul li > a, .btn-text, .adv-big h2, .form-box, .datepicker-container, .form-box p, .advs-box-side-img h2 a, .step-number, .font-2, .niche-box-post h2, .home-slider li p, .box-menu-inner .icon-box-cell p, .pricing-table h3, .tweets_txt span, .comment-list .name span, .tag-row a, .tag-row.icon-row span, .niche-box-team h4, .quote-author, .niche-box-testimonails > h5 span, .navbar-nav, .nav, h1, .h1, h2, .h2, h3, .h3, h4, h5, h6, .btn, .table, .extra-content, .counter, .icon-box-cell label, .progress-label, .progress {
     font-family: 'dalekregular', sans-serif;
     line-height: 25px;
 }
@@ -72,7 +75,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, p, .ti
         }
 
 .btn-border:after, .nav-tabs > li > a:before, .advs-box-top-icon-img.boxed:not(.niche-box-post):after, .advs-box-blog.boxed:after, .timeline > li > .timeline-badge, .social-group i.circle, .social-button i.circle, .bg-color, .home-fullpage p, .home-fullpage a:hover, .timeline > li:hover > .timeline-badge, ul.side-menu li.active:before, #twosides-menu, .subline-bar, .accordion-list .list-group-item:before, .advs-box-multiple div.circle, .box-social-page, .btn, .circle-button .navbar-inner .nav:not(.ms-rounded) li a:before, .timeline > li:hover > .timeline-badge {
-    background-color: #484848;
+    background-color: #e3ab3b;
 }
 
 [class*="col-md-"].boxed, .fa-angle-up.scroll-top, .call-action-box, .ul-dots li:before, .flex-control-paging li a.flex-active, .header-bootstrap, .flex-control-paging li a:hover, .progress-bar, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default, .adv-img-half-content .sub-text, .ot-dtp-picker .ot-dtp-picker-button:hover {
@@ -169,7 +172,7 @@ a {
 }
 
 .section-slider .flexslider:not(.outer-navs) .flex-direction-nav li a:before, .open > .dropdown-toggle.btn-default, .white .icon-box-cell label, .btn, .btn:hover, header .navbar-nav li li:hover > a, .header-bootstrap i, .btn.focus, .btn:not(.btn-border) i, .input-group .btn:not(.btn-border), .adv-img h2, .adv-img a, .white .progress-bar, .subline-bar a, header .input-group .btn:not(.btn-border):hover {
-    color: #fff;
+    color: #000;
 }
 
     .white .dark-testimonials.niche-box-testimonails-cloud p, .btn:hover i, .mega-menu .fa-ul li:hover i, .mega-menu .nav-tabs li.active a, .mega-menu .nav-tabs li:hover a, .dark-menu .side-menu .active > a, .dark-menu .sidebar-nav a:hover, .dark-menu .sidebar-nav a:focus, .dark-menu .sidebar-nav a:active, .white.btn, .white .btn, .white-slider .flex-direction-nav a:before, header.dark-design.scroll-css .navbar-default .navbar-nav li:hover > a, .white .btn-text:hover, .white .advs-box-side-img h2 a, .nav-pills > li > a, .nav-pills > li.active > a, .nav.inner.ms-rounded .maso-order, .nav.inner.ms-rounded li a:hover, .advs-box-side-img.boxed h2 a, header .navbar-toggle:hover > i, .boxed .tag-row i, .advs-box-side-icon.boxed .icon-box i, body div .btn.white:hover, body div .btn.white:hover i, .advs-box.boxed a.btn, header.bg-transparent .navbar-default .navbar-nav > li:hover > a, header.bg-transparent .navbar-default .navbar-nav > li.active > a, .social-group i.circle, .social-button i.circle, .advs-box-top-icon.boxed .icon, .boxed .btn-text:hover, .white .icon-box-cell > i, .white.icon-box-cell > i {
@@ -199,7 +202,7 @@ a {
 
 footer, footer p, footer .tag-row span, footer .btn-group-icons:not(.social-colors) i, footer a, .white .dropdown-menu > li > a:hover, footer.dark-design .copy-row, .mega-menu .fa-ul .fa-li, li.panel-item .fa-li,
 .white .dropdown-menu > li > a:focus, .white a, .tag-row.icon-row span, .white .tag-row i, .white .icon-list, .white .icon-list i, header.dark-design.scroll-css .navbar-default .navbar-nav li > a {
-    color: #b3b3b3 !important;
+    color: #000000 !important;
 }
 
 .mi-menu ul li > a, .mi-menu ul li > a:hover, .mi-menu ul li > a i, .pagination > li.page a {
@@ -539,7 +542,7 @@ body .picker__day {
 
 .container.content, .section-empty > .content, .section-bg-image > .content, .section-bg-video > .content, .section-bg-animation > .content, .section-slider > .content, .section-bg-color > .content, .section-item > .content, .section-two-blocks .content {
     padding-top: 80px;
-    padding-bottom: 80px;
+    padding-bottom: 38px;
 }
 
 h4, .h4 {
@@ -945,10 +948,11 @@ i.cover, i.onlycover {
 .title-base p {
     margin: auto;
     padding-bottom: 5px;
-    font-size: 14px;
+    font-size: 29px;
+    font-family: 'Amatic SC', cursive;
     opacity: .8;
     font-style: italic;
-    color: white;
+    color: #737373;
 }
 
 .social-group {
@@ -1198,13 +1202,15 @@ div .countdown > div:last-child:after {
 
     .list-items .list-item span {
         font-weight: 300;
-        font-size: 15px;
+        font-size: 28px;
+
     }
 
     .list-items .list-item p {
-        font-size: 12px;
-        line-height: 18px;
-        margin-top: 5px;
+        font-size: 23px;
+        line-height: 30px;
+        margin-top: 3px;
+        font-family: 'Amatic SC', cursive;
     }
 
     .list-items .list-item:last-child {
@@ -2736,6 +2742,7 @@ body .adv-img-button-content .caption i {
 .extra-content {
     padding: 0;
     font-size: 13px;
+    font-family: 'Amatic SC', cursive;
     font-weight: 500;
     line-height: 18px;
     color: #8e8e8e;
@@ -2755,11 +2762,11 @@ body .adv-img-button-content .caption i {
 
 .adv-img-down-text h2 {
     text-transform: none;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
     padding-bottom: 5px;
     text-align: left;
-    color: #3E3E3E;
+    color: #e3ab3b;
 }
 
     .adv-img-down-text h2 a {
