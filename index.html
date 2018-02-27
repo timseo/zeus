@@ -27,7 +27,7 @@
 
     <!-- Extra optional content header -->
 </head>
-<body>
+<body itemscope itemtype="http://schema.org/Restaurant">
     <div id="preloader"></div>
     <div class="footer-parallax-container">
 
@@ -63,7 +63,7 @@
 
                                 </li>
                                 <li>
-                                  <a href="#" role="button">Order Online </a>
+                                  <a href="http://zeusgreekstreet.smartonlineorder.com/" role="button">Order Online </a>
                                 </li>
                             </ul>
                             <div class="nav navbar-nav navbar-right">
@@ -92,7 +92,7 @@
                 <img src="images/logos/zeus-logo-circle-dark.png" alt="" width="150px" />
                 <hr class="space" />
                 <h5 class="text-uppercase anima">kali orexi</h5>
-                <h2 class="text-bold text-xxl anima">Greek Street Food</h2>
+                <h2 itemprop="name" class="text-bold text-xxl anima">Greek Street Food</h2>
                 <hr class="space xs" />
                 <p class="anima">
                     Hand Stacked and Hand Carved ... Food fit for the Gods<br />
@@ -118,7 +118,7 @@
                             We believe good food is meant to be enjoyed by all. Proudly bringing you a taste of Greece to your table.
                         </p>
                         <hr class="space s" />
-                        <h2><a href="callto:6787417181">(678) 741 - 7181</a></h2>
+                        <h2 itemprop="telephone"><a href="callto:6787417181">(678) 741 - 7181</a></h2>
 
                     </div>
                     <div class="col-md-6 col-sm-12 text-center-sm" data-anima="fade-right">
@@ -430,12 +430,12 @@
                         <table class="table table-hover">
                             <thead>
                                 <tr>
-                                    <th>Mon - Thur</th>
-                                    <th>11 - 9</th>
-                                    <th>Fri - Sat</th>
-                                    <th>11 - 10</th>
-                                    <th>Sun</th>
-                                    <th>12 - 9</th>
+                                    <th itemprop="openingHours">Mon - Thur</th>
+                                    <th itemprop="openingHours">11 - 9</th>
+                                    <th itemprop="openingHours">Fri - Sat</th>
+                                    <th itemprop="openingHours">11 - 10</th>
+                                    <th itemprop="openingHours">Sun</th>
+                                    <th itemprop="openingHours">12 - 9</th>
                                 </tr>
                             </thead>
                             <!-- <tbody>
@@ -483,7 +483,7 @@
               </div>
           </div>
           <div class="row copy-row">
-            <div class="col-md-12 copy-text">
+            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="col-md-12 copy-text">
                 <a href="https://chameleoncollabo.com/">©</a> 2018 Zeus Greek Street &nbsp; &nbsp;   | &nbsp; &nbsp; <a href="mailto:zeusgreekstreet@gmail.com">zeusgreekstreet@gmail.com</a>&nbsp; &nbsp;  | &nbsp; &nbsp; <a href="callto:6787417181">(678) 741 7181</a>&nbsp; &nbsp;  | &nbsp; &nbsp; <a href="https://www.google.com/maps/place/Zeus+Greek+Street+Food/@33.9019109,-84.4569267,17z/data=!3m1!4b1!4m5!3m4!1s0x88f511c948500003:0x82e5e9b1731e8d83!8m2!3d33.9019109!4d-84.4547327">&nbsp; &nbsp; 2022 Powers Ferry Rd Atlanta GA 30339</a>
             </div>
           </div>
@@ -502,6 +502,7 @@
         <script src='scripts/social.stream.min.js'></script>
         <script src='scripts/jquery.slimscroll.min.js'></script>
         <script src='scripts/smooth.scroll.min.js'></script>
+        <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us17.list-manage.com","uuid":"4ddf6d3642cfb680c16137a07","lid":"89cab0b726"}) })</script>
     </footer>
 </body>
 </html>
