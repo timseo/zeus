@@ -560,7 +560,7 @@ h5 {
     font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 20px;
-    font-size: 24px;
+    font-size: 38px;
 }
 
 input {
@@ -2413,7 +2413,7 @@ div > p.block-quote:last-child {
 }
 
     .advs-box p {
-        font-size: 13px;
+        font-size: 24px;
         line-height: 24px;
     }
 
