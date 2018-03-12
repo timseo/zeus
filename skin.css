@@ -1187,8 +1187,8 @@ div .countdown > div:last-child:after {
 .list-items .list-item h3 {
     text-transform: none;
     font-weight: 500;
-    font-size: 22px;
-    line-height: 22px;
+    font-size: 25px;
+    line-height: 25px;
 }
 
 .list-items .list-item {
@@ -2413,8 +2413,8 @@ div > p.block-quote:last-child {
 }
 
     .advs-box p {
-        font-size: 38px;
-        line-height: 42px;
+        font-size: 32px;
+        line-height: 35px;
     }
 
     .advs-box.boxed-inverse, [class*="col-md-"].boxed-inverse {
@@ -2732,7 +2732,7 @@ body .adv-img-button-content .caption i {
 }
 
 .advs-box h3 {
-    font-size: 28px;
+    font-size: 25px;
     line-height: 30px;
     font-weight: 500;
     margin-bottom: 15px;
