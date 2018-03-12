@@ -49,8 +49,8 @@ SKIN: GOURMET
 
 body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, p, .title-base p, .subheader-bootstrap .sub {
     font-family: 'Amatic SC', cursive;
-    font-size: 23px;
-    line-height: 29px;
+    font-size: 29px;
+    line-height: 31px;
     font-weight: 300;
     color: #737373;
 }
@@ -948,9 +948,9 @@ i.cover, i.onlycover {
 .title-base p {
     margin: auto;
     padding-bottom: 5px;
-    font-size: 29px;
+    font-size: 35px;
     font-family: 'Amatic SC', cursive;
-    opacity: .8;
+    /* opacity: .8; */
     font-style: italic;
     color: #737373;
 }
@@ -1201,14 +1201,14 @@ div .countdown > div:last-child:after {
     }
 
     .list-items .list-item span {
-        font-weight: 300;
-        font-size: 28px;
+        font-weight: 600;
+        font-size: 27px;
 
     }
 
     .list-items .list-item p {
-        font-size: 23px;
-        line-height: 30px;
+        font-size: 30px;
+        line-height: 33px;
         margin-top: 3px;
         font-family: 'Amatic SC', cursive;
     }
@@ -2413,8 +2413,8 @@ div > p.block-quote:last-child {
 }
 
     .advs-box p {
-        font-size: 24px;
-        line-height: 24px;
+        font-size: 38px;
+        line-height: 42px;
     }
 
     .advs-box.boxed-inverse, [class*="col-md-"].boxed-inverse {
@@ -2596,7 +2596,7 @@ body .niche-box-post .block-infos {
 
 
 .niche-box-post h2 {
-    font-size: 18px;
+    font-size: 20px;
     text-transform: none;
     font-weight: 600;
     margin-top: 0;
@@ -2608,8 +2608,8 @@ body .niche-box-post .block-infos {
 }
 
 .block-infos p.bd-day {
-     font-size: 26px;
-     line-height: 20px;
+     font-size: 45px;
+     line-height: 50px;
      padding: 10px 0 9px 0;
      margin: 0;
      color: #fff;
@@ -2732,8 +2732,8 @@ body .adv-img-button-content .caption i {
 }
 
 .advs-box h3 {
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 28px;
+    line-height: 30px;
     font-weight: 500;
     margin-bottom: 15px;
     text-transform: none;
