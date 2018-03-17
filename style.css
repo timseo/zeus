@@ -33,6 +33,13 @@ Table of contents
    color: #2788dc;
  }
 
+ .blurb {
+   width: 65px;
+   margin-top: 17px;
+   margin-left: 4px;
+   z-index: 9;
+ }
+
 /* ============================== */
 GLOBAL STYLE
 ==============================
