@@ -651,6 +651,8 @@ header.hamburger-header {
 
 .wide-area .container {
     width: 100% !important;
+    height: 90px;
+    padding-top: 7px;
 }
 
 header .custom-area {

@@ -560,7 +560,7 @@ h5 {
     font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 20px;
-    font-size: 38px;
+    font-size: 25px;
 }
 
 input {
@@ -922,7 +922,7 @@ i.cover, i.onlycover {
 
 .title-base h2, .title-base h1, .title-icon h2, .title-icon h1, .title-base.title-small h2 {
     font-weight: 500;
-    font-size: 34px;
+    font-size: 26px;
     line-height: 60px;
     text-transform: uppercase;
     margin-top: 0;
