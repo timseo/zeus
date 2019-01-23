@@ -39,7 +39,13 @@ Table of contents
    margin-left: 4px;
    z-index: 9;
  }
- 
+ .blurb-mambo {
+   width: 95px;
+   margin-top: -12px;
+   margin-left: 4px;
+   z-index: 9;
+ }
+
 
 /* ============================== */
 GLOBAL STYLE
