@@ -673,7 +673,7 @@ body > .header-slider .flex-direction-nav {
 }
 
 .slides > li > a.img-box {
-    width: 100%;
+    /* width: 100%; */
     display: block;
 }
 
