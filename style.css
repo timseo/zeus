@@ -47,6 +47,8 @@ Table of contents
  }
 
 
+
+
 /* ============================== */
 GLOBAL STYLE
 ==============================
@@ -394,7 +396,7 @@ a {
 }
 
 .text-xxl {
-    font-size: 80px !important;
+    font-size: 50px !important;
     line-height: 110px;
 }
 

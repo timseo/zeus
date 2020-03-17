@@ -111,7 +111,7 @@ div.adv-img-side-content .btn:hover, .nav-pills > li.active > a, .list-items .li
 }
 
 .circle-button, .btn-border, .btn, .social-group i.circle, .social-button i.circle {
-    border-color: #484848;
+    border-color: #e3ab3b;
 }
 
 .tab-box > .panel, .niche-box-team .content-box hr, hr.e, .datepicker-top-left, .datepicker-top-right {
@@ -1275,6 +1275,11 @@ div .countdown > div:last-child:after {
     font-size: 14px;
     letter-spacing: .3px;
     padding: 8px 25px 6px 25px;
+}
+.btn-oo {
+    font-size: 25px;
+    letter-spacing: .3px;
+    padding: 14px 40px 14px 40px;
 }
 
     .btn-sm i {
