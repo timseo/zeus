@@ -46,7 +46,10 @@ Table of contents
    z-index: 9;
  }
 
-
+.onlineorder-button-2 {
+   display:table;
+   margin:0 auto;
+}
 
 
 /* ============================== */
