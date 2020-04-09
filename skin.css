@@ -1280,6 +1280,7 @@ div .countdown > div:last-child:after {
     font-size: 20px;
     letter-spacing: .3px;
     padding: 14px 40px 14px 40px;
+    margin-top: 13px;
 }
 
     .btn-sm i {
