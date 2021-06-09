@@ -3427,6 +3427,11 @@ LISTS
         color: #696969;
     }
 
+    .list-items .list-item .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
 ul.list-texts {
     padding-left: 0;
 }
@@ -3439,6 +3444,8 @@ ul.list-texts {
         ul.list-texts li b {
             padding-right: 5px;
         }
+
+
 /*
 ==============================
 ICONS
@@ -5791,6 +5798,8 @@ button.navbar-toggle {
     }
 }
 
+
+
 @media (min-width: 993px) and (max-width: 1199px) {
     .section-two-blocks div.content {
         width: 460px;
@@ -6860,6 +6869,8 @@ MOBILE - COMPONENTS
         height: 100% !important;
     }
 }
+
+
 /*
 ==============================
 MOBILE - EXTRA SMALL SCREENS
