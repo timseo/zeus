@@ -5270,6 +5270,7 @@ SECTIONS
 .section-map {
     position: relative;
     overflow: hidden;
+    height: 960px !important;
 }
 
     .section-map .google-map {
@@ -5307,6 +5308,8 @@ SECTIONS
         top: auto;
         margin-top: 150px;
     }
+
+
 
 .overlaybox-side, .overlaybox-side .content, .overlaybox-side .row {
     height: 1px;
